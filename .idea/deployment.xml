@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="graskov.study.mcart.ru">
+    <serverData>
+      <paths name="graskov.study.mcart.ru">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/graskov/www" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/graskov/www/bitrix" />
+            <excludedPath path="/home/graskov/www/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
